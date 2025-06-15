@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "hidenabe/counterSample",
+    "name": "hidenabe/counter_sample",
     "type": "project",
     "description": "The official Laravel starter kit for Livewire.",
     "keywords": [
